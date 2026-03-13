@@ -13,7 +13,7 @@ body {
 /* Section layout */
 
 section {
-  max-width: 500px;
+  max-width: 1000px;
   margin: auto;
   padding: 60px 15px;
 }
