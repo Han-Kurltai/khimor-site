@@ -26,12 +26,6 @@ export default function About() {
         </p>
 
         <p className="section-text">
-          We believe meaningful breakthroughs rarely begin inside large
-          institutions. They start with curious individuals willing to explore
-          ideas before they become obvious.
-        </p>
-
-        <p className="section-text">
           Our goal is simple: experiment, learn quickly, and build systems that
           push the boundaries of what intelligent software can become. KHIMOR is
           currently in its early development phase, focused on research,

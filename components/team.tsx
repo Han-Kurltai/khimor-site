@@ -7,7 +7,7 @@ export default function Team() {
       <p>Founder, CEO · Backend, AI, Systems</p>
 
       <h3>Abdul Hadi</h3>
-      <p>Co-Founder, COO · Marketing · Design · Visual Systems</p>
+      <p>COO · Marketing · Design · Visual Systems</p>
 
       <h3>Muhammad Talha</h3>
       <p>CFO · Finance Management · Accounts · Risk Management</p>
