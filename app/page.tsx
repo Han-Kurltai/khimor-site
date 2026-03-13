@@ -13,7 +13,7 @@ export default function Home() {
     <main className="bg-[#212121] text-white scroll-smooth">
       {/* Hero Section */}
       <section className="min-h-screen flex flex-col justify-center items-center text-center px-6">
-        <img src="/logo.png" alt="Nexus Logo" width={700} height={200} className="w-500 mb-500" />
+        <img src="/Logo.png" alt="Nexus Logo" width={700} height={200} className="w-500 mb-500" />
         <h1 className="text-6xl md:text-7xl font-extrabold mb-4">KHIMOR</h1>
         <p className="text-xl md:text-2xl font-light mb-8 max-w-2xl">
           Artificial Intelligence · Emerging Computing · Research

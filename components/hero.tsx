@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section className="hero">
       <Image
-        src="/logo.png"
+        src="/Logo.png"
         alt="Nexus Logo"
         width={1200}
         height={1200}
